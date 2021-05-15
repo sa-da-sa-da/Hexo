@@ -1,5 +1,5 @@
 avatar:
-  url: https://www.yunyoujun.cn/images/avatar.jpg
+  url: https://moodle-img-video.oss-cn-zhangjiakou.aliyuncs.com/img/%E5%BE%AE%E4%BF%A1%E5%A4%B4%E5%83%8F.jpg
   rounded: true
   opacity: 1
 
@@ -7,7 +7,7 @@ social:
   - name: RSS
     # set rss in your root config
     # https://github.com/hexojs/hexo-generator-feed
-    link: /atom.xml # config.feed.path
+    link: /slides/index.md # config.feed.path
     icon: icon-rss-line
     color: orange
   - name: QQ 号 3206908770

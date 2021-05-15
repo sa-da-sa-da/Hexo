@@ -1,5 +1,5 @@
 ---
-type: albums
+type: 影音
 albums:
   - caption: 夕阳西下
     url: /albums/sunset.html
