@@ -163,8 +163,8 @@ menu:
       path: /tags/
       icon: icon-price-tag-3-line
   custom:
-    title: 文档
-    path: https://yun.yunyoujun.cn
+    title: 相册
+    path: /albums/
     icon: icon-settings-line
 
 # archive
