@@ -7,7 +7,7 @@ social:
   - name: RSS
     # set rss in your root config
     # https://github.com/hexojs/hexo-generator-feed
-    link: /slides/index.md # config.feed.path
+    link: /slides/ # config.feed.path
     icon: icon-rss-line
     color: orange
   - name: QQ 号 3206908770
@@ -22,7 +22,7 @@ social:
   - name: 微博
     link: https://weibo.com/sakaay
     icon: icon-weibo-line
-    color: "#E6162D"
+    color: "#FF8EB3"
   - name: 网易云音乐
     link: https://music.163.com/#/user/home?id=3869858394
     icon: icon-netease-cloud-music-line
@@ -34,7 +34,11 @@ social:
   - name: 哔哩哔哩
     link: https://space.bilibili.com/485696789
     icon: icon-bilibili-line
-    color: "#FF8EB3"
+    color: "#FF8EB3"  
+  - name: 相册
+    link: /albums/
+    icon: icon-eye-line
+    color: "#6e5494"
   # - name: POPI
   #   link: https://www.popiapp.cn/elpsycn
   #   icon: icon-questionnaire-line
@@ -48,7 +52,14 @@ social:
   #   link: https://t.me/YunYouJun
   #   icon: icon-telegram-line
   #   color: "#0088CC"
-
+  - name: 网盘
+    link: https://pan.baidu.com
+    icon: icon-calendar-line
+    color: "#E6162D"
+  - name: Web-App
+    link: http://serverlessfame.com
+    icon: icon-user-line
+    color: "#0084FF"
   - name: E-Mail
     link: 3206908770@qq.com
     icon: icon-mail-line
@@ -101,7 +112,7 @@ albums:
   enable: true
 
 aplayer:
-  global: false
+  global: true
   meting: true
   # https://github.com/metowolf/MetingJS/tree/v1.2#option
   widget:
