@@ -139,6 +139,6 @@ aplayer:
       type: playlist
 
 pjax:
-  enable: true
+  enable: false
   src: /js/pjax.js
 

@@ -93,8 +93,3 @@ date: 2021-05-14 09:56:31
 >
 >谢谢你们<a href="donate.sakaay.com">捐赠</a>！
 
-<div class="success">
-<blockquote>
-<p>本博客所有文章（除特别声明外）默认为原创，均采用 CC BY-NC-SA 许可协议。转载注明出处即可。</p>
-<blockquote>
-</div>
