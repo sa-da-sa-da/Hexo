@@ -104,5 +104,8 @@ theme: yun
 deploy:
   type: ''
 
+aplayer:
+  meting: true
+
 
 

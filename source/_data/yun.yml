@@ -57,7 +57,7 @@ social:
     icon: icon-calendar-line
     color: "#E6162D"
   - name: Web-App
-    link: http://serverlessframe.com
+    link: http://serverlessframe.cn/
     icon: icon-user-line
     color: "#0084FF"
   - name: E-Mail
@@ -141,4 +141,10 @@ aplayer:
 pjax:
   enable: false
   src: /js/pjax.js
+
+cursor:
+  enable: true
+  default: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/css/md-cursors/pointer.cur
+  pointer: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/css/md-cursors/link.cur
+  text: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/css/md-cursors/text.cur
 
