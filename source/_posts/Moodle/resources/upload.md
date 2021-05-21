@@ -1,4 +1,10 @@
-# 我想上传文件给学生看
+---
+title: 我想上传文件给学生看
+categories:  Moodle
+tags: [Moodle]
+date: 2021-05-18
+updated: 2021-05-18
+---
 
 许多老师喜欢使用Moodle呈现讲稿和其它文件，这是非常有用的，虽然Moodle的功能远远不止显示你的文件和文件夹。
 

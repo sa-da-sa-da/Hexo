@@ -1,4 +1,11 @@
-# Moodle的重要术语
+---
+title: Moodle的重要术语
+categories: Moodle
+tags: [Moodle]
+date: 2021-05-18
+updated: 2021-05-18
+---
+
 
 一个Moodle站点由课程组成，课程本质上是一些包含了教师想要分享给学生学习资料的基础页面。教师在Moodle课程里可以从共同协助学习进程的3个不同要素里选择项目。他们是：活动、资源及版块。
 

@@ -1,4 +1,11 @@
-# 本章小节
+---
+title: Moodle小结
+categories:  Moodle
+tags: [Moodle]
+date: 2021-05-18
+updated: 2021-05-18
+---
+
 ## 一、Moodle的界面
 
 Moodle中的导航菜单如何呈现部分取决于所选Moodle的主题和你的管理员的设置，但是通常你可以在每一页看到一个“导航”版块和“管理（设置）”版块。

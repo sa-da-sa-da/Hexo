@@ -1,4 +1,11 @@
-# Moodle简介
+---
+title: Moodle简介
+categories: Moodle
+tags: [Moodle]
+date: 2021-05-18
+updated: 2021-05-18
+---
+
 ## 一、什么是Moodle
 
 Moodle是全球应用最广泛的一款开源课程管理系统（CMS）或学习管理系统（LMS），有遍布230多个国家的7千多万注册站点。

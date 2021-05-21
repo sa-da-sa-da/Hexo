@@ -1,4 +1,11 @@
-# Moodle的教学法
+---
+title: Moodle的教学法
+categories: Moodle
+tags: [Moodle]
+date: 2021-05-18
+updated: 2021-05-18
+---
+
 
 Moodle的教学法是社会建造主义（Social Constructionism）
 

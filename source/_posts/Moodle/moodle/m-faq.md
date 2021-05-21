@@ -1,4 +1,11 @@
-# Moodle 常见问题
+---
+title: Moodle 常见问题
+categories: Moodle
+tags: [Moodle]
+date: 2021-05-18
+updated: 2021-05-18
+---
+
 ## 一、开始使用Moodle
 1. 什么是Moodle？
    
