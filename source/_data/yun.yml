@@ -148,3 +148,12 @@ cursor:
   pointer: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/css/md-cursors/link.cur
   text: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/css/md-cursors/text.cur
 
+mourn:
+  enable: true
+  days:
+    - "5-22"
+
+notice:
+  enable: true
+  content: 一路走好！
+
