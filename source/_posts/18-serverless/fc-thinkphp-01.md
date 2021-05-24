@@ -13,7 +13,7 @@ updated: 2021-05-24
 简介： 用阿里云函数计算部署 thinkphp 6
 </p>
 <p>
-本文借鉴<a href="https://developer.aliyun.com/article/640912">十分钟上线-函数计算玩转 WordPress </a>。
+本文借鉴：<a href="https://developer.aliyun.com/article/640912">十分钟上线-函数计算玩转 WordPress </a>。
 </p>
 <p>
 演示地址：<a href="http://thinkphp.serverlessframe.com">http://thinkphp.serverlessframe.com</a>
@@ -23,21 +23,21 @@ updated: 2021-05-24
 
 ## 准备
 
-1. tp6 源码
+### 1. tp6 源码
 
-2. 登录阿里云函数计算控制台。
+### 2. 登录阿里云函数计算控制台。
 
 ## 步骤
 
-1. 后台创建 PHP7.2 环境的函数，创建http触发器，这些就不详细写了，可以去看<a href="">文档</a>。
+### 1. 后台创建 PHP7.2 环境的函数，创建http触发器，这些就不详细写了，可以去看<a href="">文档</a>。
 
-2. 打开 `tp6` 的入口文件（/public/index.php）在 `namespace think;` 这句的下面，加如下代码：
+### 2. 打开 `tp6` 的入口文件（/public/index.php）在 `namespace think;` 这句的下面，加如下代码：
 
 ```php
 if(!$_SERVER['PATH_INFO']) $_SERVER['PATH_INFO'] = preg_replace("/^(\?s\=\/)/","",$_SERVER['REQUEST_URI']);
 ```
 
-3. 准备 `tp6` 源码，在根目录创建`index.php`文件(作为函数的入口文件)，
+### 3. 准备 `tp6` 源码，在根目录创建`index.php`文件(作为函数的入口文件)，
 
 目录结构如下：
 ```
@@ -143,7 +143,7 @@ function error($code) {
 }
 ```
 
-4. 由于函数计算只有`/tmp`目录可写，所以要改一下 `tp6` 的配置文件。为什么？见<a href="https://help.aliyun.com/document_detail/181824.htm?spm=a2c4g.11186623.2.42.78956e6arU1B7M#concept-1919454">文章</a>
+### 4. 由于函数计算只有`/tmp`目录可写，所以要改一下 `tp6` 的配置文件。为什么？见<a href="https://help.aliyun.com/document_detail/181824.htm?spm=a2c4g.11186623.2.42.78956e6arU1B7M#concept-1919454">文章</a>
 
 编辑`/config/cache.php`
 
@@ -237,4 +237,4 @@ return [
 
 ```
 
-5. 接下来，就可以直接开始调试啦。
+### 5. 接下来，就可以直接开始调试啦。
