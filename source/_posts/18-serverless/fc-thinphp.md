@@ -181,7 +181,7 @@ composer create-project topthink/think tp
 
 转到项目目录`tp`,并安装`liuwave/fc-thinkphp`
 
-```shell script
+```shell
 cd tp
 composer require liuwave/fc-thinkphp
 ```
@@ -231,7 +231,7 @@ $http->end($response);
 
 转到根目录`/`:
 
-```shell script
+```shell
 # 当前是`test-think/test-fun/tp`
 cd ../../../
 
@@ -239,7 +239,7 @@ cd ../../../
 
 执行部署命令(权限策略配置请参考阿里云相关文档)：
 
-```shell script
+```shell
 fun deploy -y
 ```
 
