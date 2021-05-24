@@ -16,7 +16,7 @@ updated: 2021-05-24
 本文借鉴<a href="https://developer.aliyun.com/article/640912">十分钟上线-函数计算玩转 WordPress </a>。
 </p>
 <p>
-演示地址：<a href="http://hinkphp.serverlessframe.com">http://thinkphp.serverlessframe.com</a>
+演示地址：<a href="http://thinkphp.serverlessframe.com">http://thinkphp.serverlessframe.com</a>
 </p>
 </blockquote>
 </div>
