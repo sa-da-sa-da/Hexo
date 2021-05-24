@@ -10,9 +10,13 @@ updated: 2021-05-24
 <div class="sucess">
 <blockquote>
 <p>
-简介： 用阿里云函数计算部署thinkphp5.1
+简介： 用阿里云函数计算部署 thinkphp 6
+</p>
+<p>
 本文借鉴<a href="https://developer.aliyun.com/article/640912">十分钟上线-函数计算玩转 WordPress </a>。
-演示地址：<a href="thinkphp.serverlessframe.com">thinkphp.serverlessframe.com</a>
+</p>
+<p>
+演示地址：<a href="http://hinkphp.serverlessframe.com">http://thinkphp.serverlessframe.com</a>
 </p>
 </blockquote>
 </div>
