@@ -16,7 +16,7 @@ updated: 2021-05-24
 
 首先在thinkphp6.0项目中安装插件：
 
-```shell script
+```shell
 composer require liuwave/fc-thinkphp
 ```
 
