@@ -165,7 +165,7 @@ engine_search:
   domain: sakaay.com
 
 busuanzi:
-  enable: true
+  enable: false
   site_uv: true
   site_uv_icon: icon-user-line
   site_pv: true
