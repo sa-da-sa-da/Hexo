@@ -112,11 +112,11 @@ albums:
   enable: true
 
 aplayer:
-  global: true
-  meting: true
+  global: false
+  meting: false
   # https://github.com/metowolf/MetingJS/tree/v1.2#option
   widget:
-    enable: true
+    enable: false
     autoplay: false
     # theme: "#2980b9"
     loop: all
@@ -133,7 +133,7 @@ aplayer:
         url: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/audio/star-timer.mp3
         cover: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/bg/stars-timing-0.jpg
     meting:
-      enable: true
+      enable: false
       id: 5207722902
       server: netease
       type: playlist
