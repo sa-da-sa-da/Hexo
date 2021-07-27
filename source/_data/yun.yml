@@ -188,3 +188,6 @@ github_discussions:
   username: sa-da-sa-da
   repository: Hexo
 
+google_adsense:
+  enable: true
+  client: ca-pub-1635316807116619
