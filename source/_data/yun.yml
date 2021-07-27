@@ -182,3 +182,9 @@ footer:
     logo: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/logo/upyun-logo.png
     prefix: 本网站由
     suffix: 提供 CDN 加速
+
+github_discussions:
+  enable: true
+  username: sa-da-sa-da
+  repository: Hexo
+
