@@ -1,0 +1,21 @@
+edition: 1.0.0
+access: "default"
+
+services:
+  website-starter:
+    component: devsapp/website
+    actions:
+      pre-deploy:
+        - run: npm install
+          path: ./
+        - run: npm run build
+          path: ./
+    props:
+      bucket: 'sakaay'
+      src:
+        codeUri: ./
+        publishDir: ./public
+        index: index.html
+      region: cn-hongkong
+      hosts:
+        - host: auto
