@@ -16,4 +16,7 @@ jobs:
       - run: npm install
       - run: npm install -g @serverless-devs/s
       - run: s config add --AccountID ${{secrets.ACCOUNTID}} --AccessKeyID ${{secrets.ACCESSKEYID}} --AccessKeySecret ${{secrets.ACCESSKEYSECRET}} -a default
+      - run: echo "AccoundID"
+      - run: echo "AccessKeyID"
+      - run: echo "AccessKeySecret"
       - run: s deploy
