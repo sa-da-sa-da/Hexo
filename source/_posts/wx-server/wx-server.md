@@ -1,5 +1,5 @@
 ---
-title: 小程序开发总结和新的
+title: 小程序开发总结和心得
 categories: 微信小程序
 tags: [小程序资源]
 date: 2021-08-14
