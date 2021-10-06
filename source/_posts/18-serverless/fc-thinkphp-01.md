@@ -1,6 +1,6 @@
 ---
 title: 阿里云函数计算 Thinkphp 在 PHP7.2 环境下的入口函数（2）
-categories: [Thinkphp,Serverless]
+categories: [Serverless,Thinkphp]
 tags: [Thinkphp,Serverless,插件 ]
 date: 2021-05-24 
 updated: 2021-05-24 
