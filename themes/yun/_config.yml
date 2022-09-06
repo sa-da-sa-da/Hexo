@@ -547,7 +547,7 @@ algolia_search:
 # Google Adsense
 google_adsense:
   enable: false
-  client: ca-pub-2245427233262012
+  client: ca-pub-289772090666621
 
 # Analysis
 # ---------------
