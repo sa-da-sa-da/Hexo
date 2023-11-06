@@ -19,7 +19,7 @@ photos:
     src: https://moodle-img-video.oss-cn-zhangjiakou.aliyuncs.com/sakaay/xy-4.jpg
     desc: 陕师大积学堂 - 2019‎年‎3‎月‎24‎日 - 颯龘 摄
   - caption: 奔跑 
-    src: https://moodle-img-video.oss-cn-zhangjiakou.aliyuncs.com/sakaay/xy-0.jpg
+    src: https://moodle-img-video.oss-cn-zhangjiakou.aliyuncs.com/sakaay/xy-0.JPG
     desc: 陕师大图书馆前右花园 - 2019‎年‎3‎月‎24‎日 - 颯龘 摄
   - caption: 水击 
     src: https://moodle-img-video.oss-cn-zhangjiakou.aliyuncs.com/sakaay/img_1.JPG
