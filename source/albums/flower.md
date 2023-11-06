@@ -20,6 +20,6 @@ photos:
     src: https://moodle-img-video.oss-cn-zhangjiakou.aliyuncs.com/sakaay/img_3.JPG
     desc: 陕师大图书馆前 - 2019‎年‎4月‎‎13日 - 颯龘 摄   
   - caption: 露红烟绿
-    src: https://moodle-img-video.oss-cn-zhangjiakou.aliyuncs.com/sakaay/img_7.jpg
+    src: https://moodle-img-video.oss-cn-zhangjiakou.aliyuncs.com/sakaay/img_7.JPG
     desc: 陕师大图书馆前 - 2019‎年‎5月‎2‎日 - 颯龘 摄   
 ---
